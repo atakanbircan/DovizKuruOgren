@@ -1,4 +1,4 @@
-# Odev5_DovizKuruOgren
+# DovizKuruOgrenApp
 ## T.C. Merkez Bankasından alınan güncel xml verileri işler belirtilen tarih için seçilecek döviz fiyatlarını gösterir.
 
 | Tool | Version |
